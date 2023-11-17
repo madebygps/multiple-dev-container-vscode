@@ -1,7 +1,0 @@
-{
-	"name": "Container 2",
-	"dockerComposeFile": ["../../docker-compose.yml"],
-	"service": "container-2",
-	"shutdownAction": "none",
-	"workspaceFolder": "/workspace/container-2-src"
-}
