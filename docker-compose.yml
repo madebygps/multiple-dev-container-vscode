@@ -7,7 +7,7 @@ services:
       - .:/workspace:cached
     command: sleep infinity
     links:
-      - node-container
+      - app
     # ...
 
   app:
